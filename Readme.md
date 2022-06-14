@@ -4,6 +4,8 @@
     <img src="https://github.com/Futila/maratona-explorer/blob/master/.github/app.JPG" width="400px" />
 </div>
 
+<a align="center" href="https://futila.github.io/maratona-explorer/">See live </a>
+
 ## 💻 Projeto
 
 Reveal Secret é uma aplicação simples de revelação do seu destino, desenvolvida na Maratona Explorer da Rocketseat.
