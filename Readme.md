@@ -1,8 +1,8 @@
 # Reveal Secret
 
-<!-- <div align="center">
-    <img src="https://github.com/Futila/ReactMeals/blob/master/src/.github/header.JPG" width="400px" />
-</div> -->
+<div align="center">
+    <img src="https://github.com/Futila/maratona-explorer/blob/master/.github/app.JPG" width="400px" />
+</div>
 
 ## 💻 Projeto
 
